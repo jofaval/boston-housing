@@ -32,7 +32,7 @@ Sorry if you were looking for that, but, my [California Housing Pricing](https:/
 ## ✔️ Objective
 [↑ Back to the table](#table-of-contents)
 
-To develop an alogirthm that gets as less Minimum Squared Error on the test data as possible. A simpe (not to say easy) objective makes it easier to focus on the project.
+To develop an algorithm that gets as less Minimum Squared Error on the test data as possible. A simpe (not to say easy) objective makes it easier to focus on the project.
 
 ## 🧱 Tech stack
 [↑ Back to the table](#table-of-contents)
@@ -54,7 +54,7 @@ I've basically used, Linear Regression, XGBoost and RandomForest, they're both p
 
 - Linear Regression with Polynomial Features is the simplest of the three, but it fits the problem. Although it does not perform as well as the other two.
 - Random Forest did perform the "best", except not really, it did not get the highest score on the test data, but it's still a damn good algorithm.
-- XGBoost, the winner for this round, a powerful alogirthm that's been taking the price lately, and for good reason.
+- XGBoost, the winner for this round, a powerful algorithm that's been taking the price lately, and for good reason.
 
 ## 📊 Visualization
 [↑ Back to the table](#table-of-contents)
@@ -64,7 +64,7 @@ There's nearly any visualization, only some correlation and distribution plots, 
 ## 🤓 Conclusions
 [↑ Back to the table](#table-of-contents)
 
-Supervised or unsupervised, what truly makes a good algorithm is not the algorithm itself, but good, quality data. Obviously a good algorithm will give better score, and an adequate one will outmark an incredibly good alogirthm.
+Supervised or unsupervised, what truly makes a good algorithm is not the algorithm itself, but good, quality data. Obviously a good algorithm will give better score, and an adequate one will outmark an incredibly good algorithm.
 
 But quality data is what makes up most of the data science projects. In this case I had to worry not about the data, since it was all cleaned and ready to work since the start.
 
